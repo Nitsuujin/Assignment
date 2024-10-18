@@ -37,7 +37,6 @@ int main() {
 
     X1 = CASH;
 
-    printf("Cash on hand: %d\n", CASH);
     printf("Denominations:\n");
     printf("1000 - %d\n", X1000);
     printf("500 - %d\n", X500);
